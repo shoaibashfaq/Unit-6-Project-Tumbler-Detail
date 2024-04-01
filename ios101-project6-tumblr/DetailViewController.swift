@@ -10,8 +10,10 @@ import Nuke
 
 class DetailViewController: UIViewController {
     @IBOutlet weak var pictureView: UIImageView!
+
+    @IBOutlet weak var summaryView: UITextView!
+   
     
-    @IBOutlet weak var summaryView: UILabel!
     
     var post: Post!
     
@@ -19,6 +21,8 @@ class DetailViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         title = "Details"
+        summaryView.isEditable = false;
+        summaryView.isScrollEnabled = true;
         summaryView.text = post.caption.trimHTMLTags()
         
         if let photo = post.photos.first {
