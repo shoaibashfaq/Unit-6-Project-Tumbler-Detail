@@ -4,6 +4,15 @@ Submitted by: **Muhammed Ashafq**
 
 **Tumblr Detail Starter** is an app that ... [TODO] 
 
+<div>
+    <a href="https://www.loom.com/share/b66f7a5c077b4a9baf545eb0b75a55b9">
+      <p>Loom | Free Screen & Video Recording Software | Loom - 1 April 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/b66f7a5c077b4a9baf545eb0b75a55b9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b66f7a5c077b4a9baf545eb0b75a55b9-with-play.gif">
+    </a>
+</div>
+
 Time spent: **1** hours spent in total
 
 ## Required Features
